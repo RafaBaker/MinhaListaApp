@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Minha Lista</string>
+    <string name="hint_tit">Digite o título</string>"
+    <string name="hint_desc">Digite a descrição</string>
+    <string name="bt_add">Adicionar</string>
+</resources>
